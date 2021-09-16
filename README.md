@@ -8,7 +8,7 @@ Our model takes audio file of any user as input, evaluates then outputs the pred
 The features of this project are :
 1. MFCCs
 2. k-class Logisitic Regression
-3. 94% accuracy (with binary Classification with non-uniform training)
+3. 96% accuracy (with binary Classification with non-uniform training)
 4. programing language - python
 
 ## Demo
